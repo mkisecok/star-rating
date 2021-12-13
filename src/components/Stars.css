@@ -1,0 +1,11 @@
+.stars{
+    color: gray;
+    font-size: 48px;
+    border: 2px solid gray;
+    display: inline-block;
+    padding: 5px;
+}
+p{
+    color: white;
+    padding: 20px;
+}
