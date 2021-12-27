@@ -1,0 +1,12 @@
+.App{
+    background-color: rgb(14, 71, 14);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+.rate-question{
+color: yellow;
+font-size: 36px;
+}
